@@ -1,6 +1,6 @@
 #include <Novice.h>
 
-const char kWindowTitle[] = "わくわくクッキング";
+const char kWindowTitle[] = "台パンするキンタロウ・ホズミ";
 
 const int kWindowWidth = 800; 
 const int kWindowHeight = 800;
