@@ -5,5 +5,5 @@
     <BuildType Name="Release" />
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="わくわくクッキング.vcxproj" />
+  <Project Path="わくわくクッキング.vcxproj" Id="df4906a3-9beb-4ea5-98b4-64ef43239454" />
 </Solution>
